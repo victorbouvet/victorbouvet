@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/victorbouvet/](https://github.com/victorbouvet/)
 
-- 📫 How to reach me **victor.bouvet@cpe.fr**
+- 📫 Reach me here : **victor.bouvet@cpe.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
