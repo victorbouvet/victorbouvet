@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A French student pursuing a master in electronics and embedded systems</h3>
 
+<p align="center">
+<img src="https://media2.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=790b761180291d0ece54fed24224ff89d3068d18fb3b6381&rid=giphy.gif&ct=g" width="1000" height="350"/>
+</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/victorbouvet/](https://github.com/victorbouvet/)
 
 - 📫 Reach me here : **victor.bouvet@cpe.fr**
